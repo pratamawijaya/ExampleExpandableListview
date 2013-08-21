@@ -4,7 +4,7 @@ ExampleExpandableListview
 
 Developed By
 ============
-Pratama Nur Wijaya
+Pratama Nur Wijaya - <set.mnemonix@gmail.com>
 
 License
 =======
